@@ -1,0 +1,14 @@
+body{
+	background-color: #221152;	
+}
+.heading{
+	color: #fff;
+}
+
+#login-div{
+	padding-top: 30px;
+}
+
+#login-error{
+	color: red;
+}
